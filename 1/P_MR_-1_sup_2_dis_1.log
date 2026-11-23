@@ -1,0 +1,19 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/1/PTC_MR_class_-1
+Collection Size: 153
+Frequency threshold:    2
+Dissimilarity threshold: 1
+Mined Patterns: 347
+Unique Patterns: 10
+|========================================|
+1 | ddc35681dcc3e027d038fa558bbfb53f | Pattern: 5 | Node Index: 3467 | Graph:0 | Support: 11 | Edges:  | Edge Index: 
+2 | 5011d584ad3bc5d8b2a654e2f44542fc | Pattern: 6 | Node Index: 3465 | Graph:0 | Support: 5 | Edges:  | Edge Index: 
+3 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 795 | Graph:1 | Support: 2 | Edges:  | Edge Index: 
+4 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 792 | Graph:1 | Support: 3 | Edges:  | Edge Index: 
+5 | 11d018ce80011bf17543835831f524ad | Pattern: 7 | Node Index: 791 | Graph:1 | Support: 1 | Edges:  | Edge Index: 
+6 | 81aa125cd7d54ce9f3d0632fba53887a | Pattern: 9 | Node Index: 3649 | Graph:7 | Support: 2 | Edges:  | Edge Index: 
+7 | c63ab232241044cd4ba5e9ea8e72e7fa | Pattern: 4 | Node Index: 2588 | Graph:29 | Support: 1 | Edges:  | Edge Index: 
+8 | ad7e709ae205d6324614cbd641265bf4 | Pattern: 13 | Node Index: 2165 | Graph:48 | Support: 2 | Edges:  | Edge Index: 
+9 | 557f7c7c4b29d1e7d20624e2a41d6cb4 | Pattern: 1 | Node Index: 2381 | Graph:109 | Support: 1 | Edges:  | Edge Index: 
+10 | b8c844e481b79e405d2fd469ff0ea552 | Pattern: 8 | Node Index: 4145 | Graph:116 | Support: 1 | Edges:  | Edge Index: 
