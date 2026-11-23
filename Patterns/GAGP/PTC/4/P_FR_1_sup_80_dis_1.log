@@ -1,0 +1,23 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/4/PTC_FR_class_1
+Collection Size: 103
+Frequency threshold:    80.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | 553cf8591b10049f45e857b68378f3a2 | Pattern: 5 | Node Index: 3920 | Graph:0 | Support: 102 | Edges:  | Edge Index: 
+1 | 83a1ef675add0860a4974bf1ef07f83d | Pattern: 5 5 | Node Index: 4052 4051 | Graph:101 | Support: 102 | Edges: 2 | Edge Index: ('4052', '4051')
+2 | 9aeb1e4947916cf612ee898087c1f9cb | Pattern: 5 5 | Node Index: 1994 1993 | Graph:102 | Support: 98 | Edges: 3 | Edge Index: ('1994', '1993')
+3 | 98d36bdb532797b7563efffb8a04c7d3 | Pattern: 5 3 | Node Index: 1996 1998 | Graph:102 | Support: 101 | Edges: 2 | Edge Index: ('1996', '1998')
+4 | 366a23cbb07a68b6d326fe4674ef30db | Pattern: 5 2 | Node Index: 4053 4054 | Graph:101 | Support: 102 | Edges: 2 | Edge Index: ('4053', '4054')
+5 | 38dbb50528bcfdae4a16703747574b97 | Pattern: 5 6 | Node Index: 4049 4050 | Graph:101 | Support: 101 | Edges: 2 | Edge Index: ('4049', '4050')
+6 | 8a6cf46f034c89bddbb7eaa07d00f8f1 | Pattern: 5 5 3 | Node Index: 4052 4051 4047 | Graph:101 | Support: 91 | Edges: 2 2 | Edge Index: ('4052', '4051') ('4051', '4047')
+7 | 372d2c7a96ca88a66957ec8de0accacc | Pattern: 5 5 5 | Node Index: 4052 4051 4053 | Graph:101 | Support: 91 | Edges: 2 2 | Edge Index: ('4052', '4051') ('4051', '4053')
+8 | 4f7af676298c0374803f115520df176e | Pattern: 5 3 5 | Node Index: 4048 4047 4040 | Graph:101 | Support: 84 | Edges: 2 2 | Edge Index: ('4048', '4047') ('4047', '4040')
+9 | 56b838ce2c3a7314c3dc2329e43aae59 | Pattern: 5 5 5 | Node Index: 4042 4041 4040 | Graph:101 | Support: 88 | Edges: 3 2 | Edge Index: ('4042', '4041') ('4041', '4040')
+10 | 842a71042a4613fb11ce598e7de6678f | Pattern: 5 2 5 | Node Index: 4053 4054 4051 | Graph:101 | Support: 85 | Edges: 2 2 | Edge Index: ('4053', '4054') ('4053', '4051')
+11 | 36dbfc648de86e78e15ef602b15b229c | Pattern: 5 5 | Node Index: 5022 5021 | Graph:99 | Support: 100 | Edges: 1 | Edge Index: ('5022', '5021')
+12 | 4cda8194bef9732dcc4a67e6d9c3fffc | Pattern: 5 7 | Node Index: 4569 4570 | Graph:91 | Support: 101 | Edges: 2 | Edge Index: ('4569', '4570')
+13 | ef8b8abe875558226f9a29edfb6394d0 | Pattern: 5 8 | Node Index: 3939 3940 | Graph:85 | Support: 101 | Edges: 2 | Edge Index: ('3939', '3940')
+14 | 02f61d2570d7e8198df7748b3394e78f | Pattern: 5 2 | Node Index: 483 484 | Graph:77 | Support: 83 | Edges: 3 | Edge Index: ('483', '484')
+Function ASGCM took 281.0960 seconds

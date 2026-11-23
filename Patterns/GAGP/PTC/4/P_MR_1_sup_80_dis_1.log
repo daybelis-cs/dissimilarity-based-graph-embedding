@@ -1,0 +1,20 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/4/PTC_MR_class_1
+Collection Size: 126
+Frequency threshold:    80.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | 553cf8591b10049f45e857b68378f3a2 | Pattern: 5 | Node Index: 1464 | Graph:0 | Support: 126 | Edges:  | Edge Index: 
+1 | 98d36bdb532797b7563efffb8a04c7d3 | Pattern: 5 3 | Node Index: 4795 4793 | Graph:125 | Support: 125 | Edges: 2 | Edge Index: ('4795', '4793')
+2 | 9aeb1e4947916cf612ee898087c1f9cb | Pattern: 5 5 | Node Index: 4802 4796 | Graph:125 | Support: 115 | Edges: 3 | Edge Index: ('4802', '4796')
+3 | 83a1ef675add0860a4974bf1ef07f83d | Pattern: 5 5 | Node Index: 462 460 | Graph:124 | Support: 126 | Edges: 2 | Edge Index: ('462', '460')
+4 | 38dbb50528bcfdae4a16703747574b97 | Pattern: 5 6 | Node Index: 4799 4800 | Graph:125 | Support: 124 | Edges: 2 | Edge Index: ('4799', '4800')
+5 | 56b838ce2c3a7314c3dc2329e43aae59 | Pattern: 5 5 5 | Node Index: 462 460 459 | Graph:124 | Support: 102 | Edges: 2 3 | Edge Index: ('462', '460') ('460', '459')
+6 | 366a23cbb07a68b6d326fe4674ef30db | Pattern: 5 2 | Node Index: 2519 2520 | Graph:123 | Support: 124 | Edges: 2 | Edge Index: ('2519', '2520')
+7 | 4cda8194bef9732dcc4a67e6d9c3fffc | Pattern: 5 7 | Node Index: 2525 2534 | Graph:123 | Support: 124 | Edges: 2 | Edge Index: ('2525', '2534')
+8 | 36dbfc648de86e78e15ef602b15b229c | Pattern: 5 5 | Node Index: 4536 4535 | Graph:122 | Support: 118 | Edges: 1 | Edge Index: ('4536', '4535')
+9 | ef8b8abe875558226f9a29edfb6394d0 | Pattern: 5 8 | Node Index: 2600 2601 | Graph:121 | Support: 124 | Edges: 2 | Edge Index: ('2600', '2601')
+10 | 8a6cf46f034c89bddbb7eaa07d00f8f1 | Pattern: 5 3 5 | Node Index: 2623 2622 2624 | Graph:118 | Support: 103 | Edges: 2 2 | Edge Index: ('2623', '2622') ('2623', '2624')
+11 | 94a8d56f4efe0a4db0cf5082fdfe3700 | Pattern: 5 9 | Node Index: 898 899 | Graph:12 | Support: 124 | Edges: 2 | Edge Index: ('898', '899')
+Function ASGCM took 329.8917 seconds

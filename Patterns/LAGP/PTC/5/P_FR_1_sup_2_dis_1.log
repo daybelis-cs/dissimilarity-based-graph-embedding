@@ -1,0 +1,17 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/5/PTC_FR_class_1_training_80.0%.lg
+Collection Size: 92
+Frequency threshold:    2%
+Dissimilarity threshold: 1
+Mined Patterns: 191
+Unique Patterns: 8
+|========================================|
+1 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 3917 | Graph:0 | Support: 3 | Edges:  | Edge Index: 
+2 | ddc35681dcc3e027d038fa558bbfb53f | Pattern: 5 | Node Index: 3922 | Graph:0 | Support: 14 | Edges:  | Edge Index: 
+3 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 4563 | Graph:2 | Support: 4 | Edges:  | Edge Index: 
+4 | 5011d584ad3bc5d8b2a654e2f44542fc | Pattern: 6 | Node Index: 1667 | Graph:4 | Support: 5 | Edges:  | Edge Index: 
+5 | b8c844e481b79e405d2fd469ff0ea552 | Pattern: 8 | Node Index: 1589 | Graph:6 | Support: 9 | Edges:  | Edge Index: 
+6 | 11d018ce80011bf17543835831f524ad | Pattern: 7 | Node Index: 1126 | Graph:32 | Support: 1 | Edges:  | Edge Index: 
+7 | c63ab232241044cd4ba5e9ea8e72e7fa | Pattern: 4 | Node Index: 2662 | Graph:33 | Support: 1 | Edges:  | Edge Index: 
+8 | 81aa125cd7d54ce9f3d0632fba53887a | Pattern: 9 | Node Index: 856 | Graph:58 | Support: 3 | Edges:  | Edge Index: 

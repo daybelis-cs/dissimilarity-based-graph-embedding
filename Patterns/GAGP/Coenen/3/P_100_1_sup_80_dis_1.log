@@ -1,0 +1,47 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/3/C_100_1
+Collection Size: 49
+Frequency threshold:    80.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | fa11357e0c19edf836095c1b12d14d54 | Pattern: 7 | Node Index: 2 | Graph:0 | Support: 49 | Edges:  | Edge Index: 
+1 | d20a2d42039c6396bf36783c2fdd0516 | Pattern: 7 1 | Node Index: 7 5 | Graph:48 | Support: 49 | Edges: 12 | Edge Index: ('7', '5')
+2 | 4580d0be96fc99d17b51138461b14e04 | Pattern: 7 7 | Node Index: 8 2 | Graph:48 | Support: 49 | Edges: 12 | Edge Index: ('8', '2')
+3 | 8ed9c558767a850234765fb7f6366230 | Pattern: 7 13 | Node Index: 10 8 | Graph:47 | Support: 49 | Edges: 12 | Edge Index: ('10', '8')
+4 | 0ff128902ef6f78a2fb70f964da6465f | Pattern: 7 7 | Node Index: 12 6 | Graph:48 | Support: 49 | Edges: 8 | Edge Index: ('12', '6')
+5 | f8f6cfb5bc50dc9ab71f35151c48ab24 | Pattern: 7 7 | Node Index: 7 6 | Graph:48 | Support: 49 | Edges: 0 | Edge Index: ('7', '6')
+6 | 1a360546488e612e87f2f22d646743eb | Pattern: 7 19 | Node Index: 8 10 | Graph:48 | Support: 49 | Edges: 12 | Edge Index: ('8', '10')
+7 | 55ef81cac21f03b487560145baf58331 | Pattern: 7 2 | Node Index: 7 5 | Graph:46 | Support: 49 | Edges: 12 | Edge Index: ('7', '5')
+8 | a37b64d98839255138dc31b1e0e8cc60 | Pattern: 7 7 | Node Index: 12 7 | Graph:48 | Support: 49 | Edges: 15 | Edge Index: ('12', '7')
+9 | f233448da795270637d70d1ddc2c560f | Pattern: 7 1 7 | Node Index: 7 5 6 | Graph:47 | Support: 47 | Edges: 12 0 | Edge Index: ('7', '5') ('7', '6')
+10 | 755f90e7a159b132eb7714883ac41501 | Pattern: 7 13 | Node Index: 9 8 | Graph:47 | Support: 49 | Edges: 0 | Edge Index: ('9', '8')
+11 | 001ae982395c0282e0e902f507448d3b | Pattern: 7 7 | Node Index: 10 12 | Graph:47 | Support: 49 | Edges: 1 | Edge Index: ('10', '12')
+12 | 283237fffadd6a70d4caa623d3b8dda8 | Pattern: 7 19 7 | Node Index: 8 10 9 | Graph:48 | Support: 47 | Edges: 12 0 | Edge Index: ('8', '10') ('8', '9')
+13 | de4b6d5e595ffad2bfdeaa61546660fc | Pattern: 7 7 7 | Node Index: 2 8 3 | Graph:48 | Support: 49 | Edges: 12 0 | Edge Index: ('2', '8') ('2', '3')
+14 | 83e8ad765bece752b92ad504d05fafa7 | Pattern: 7 13 7 | Node Index: 6 8 3 | Graph:47 | Support: 47 | Edges: 12 0 | Edge Index: ('6', '8') ('6', '3')
+15 | 3338fccbe62914f8a6e6fbf99da61aa3 | Pattern: 7 7 2 | Node Index: 6 7 4 | Graph:46 | Support: 47 | Edges: 0 12 | Edge Index: ('6', '7') ('6', '4')
+16 | 61c8a97289f19efa18d3e7dac103938f | Pattern: 7 7 | Node Index: 6 3 | Graph:45 | Support: 49 | Edges: 22 | Edge Index: ('6', '3')
+17 | 8535d73cf23606aef2e7a32dcd653c5e | Pattern: 7 14 | Node Index: 2 0 | Graph:45 | Support: 49 | Edges: 12 | Edge Index: ('2', '0')
+18 | 10e7ac7c74c12866acc3c7b2dadb132f | Pattern: 7 7 14 | Node Index: 3 2 0 | Graph:45 | Support: 49 | Edges: 0 12 | Edge Index: ('3', '2') ('2', '0')
+19 | 01e271fb62c5d25da9125fb0a3610bd3 | Pattern: 7 0 | Node Index: 3 1 | Graph:44 | Support: 49 | Edges: 12 | Edge Index: ('3', '1')
+20 | 99811010f7b7424a6339dd005f0c4be3 | Pattern: 7 14 | Node Index: 1 0 | Graph:45 | Support: 49 | Edges: 0 | Edge Index: ('1', '0')
+21 | f1570e08addebc7d2efcde51e67459ac | Pattern: 7 0 7 | Node Index: 3 1 2 | Graph:44 | Support: 47 | Edges: 12 0 | Edge Index: ('3', '1') ('3', '2')
+22 | 17f23f5c7291fb6ef59fea702d305836 | Pattern: 7 4 | Node Index: 11 10 | Graph:43 | Support: 49 | Edges: 0 | Edge Index: ('11', '10')
+23 | 86272bfcbf544cd444fdd8a148c8e2f5 | Pattern: 7 4 | Node Index: 8 10 | Graph:43 | Support: 49 | Edges: 12 | Edge Index: ('8', '10')
+24 | 45b9e27f558fcb1a3c6041566abbe8f9 | Pattern: 7 4 7 | Node Index: 8 10 9 | Graph:43 | Support: 47 | Edges: 12 0 | Edge Index: ('8', '10') ('8', '9')
+25 | 1286fd67543e8515f8a8572b9f52c460 | Pattern: 7 6 | Node Index: 9 7 | Graph:42 | Support: 49 | Edges: 12 | Edge Index: ('9', '7')
+26 | 6c72fc646bc513587e466f548aceec31 | Pattern: 7 1 | Node Index: 3 6 | Graph:42 | Support: 49 | Edges: 0 | Edge Index: ('3', '6')
+27 | ae7aa9b272c22d0b150f8d960c0a5dcc | Pattern: 7 6 7 | Node Index: 11 9 10 | Graph:36 | Support: 47 | Edges: 12 0 | Edge Index: ('11', '9') ('11', '10')
+28 | 7ad48a78c5269b144a87f67f4df438ab | Pattern: 7 6 | Node Index: 8 9 | Graph:36 | Support: 49 | Edges: 0 | Edge Index: ('8', '9')
+29 | 7268bf05c41a915a5a9485421a891f6d | Pattern: 7 5 | Node Index: 10 8 | Graph:33 | Support: 49 | Edges: 12 | Edge Index: ('10', '8')
+30 | 4b920f17e5357d41baa6eada789ca730 | Pattern: 7 5 7 | Node Index: 10 8 11 | Graph:33 | Support: 47 | Edges: 12 0 | Edge Index: ('10', '8') ('10', '11')
+31 | f9420216d60bf368ccc38197a49a76c2 | Pattern: 7 5 | Node Index: 9 8 | Graph:33 | Support: 49 | Edges: 0 | Edge Index: ('9', '8')
+32 | d7c2bbaac94c0f93ded054c9d595fe9b | Pattern: 7 2 | Node Index: 3 2 | Graph:33 | Support: 49 | Edges: 0 | Edge Index: ('3', '2')
+33 | a5ab966f65108fc2947e8cf2d430e69c | Pattern: 7 8 | Node Index: 11 9 | Graph:28 | Support: 49 | Edges: 12 | Edge Index: ('11', '9')
+34 | dfcddb012b00a2604fde01138c3623fe | Pattern: 7 3 | Node Index: 8 2 | Graph:28 | Support: 49 | Edges: 12 | Edge Index: ('8', '2')
+35 | 5fd0564ca8864f24b122e11a412735e6 | Pattern: 7 8 7 | Node Index: 11 9 10 | Graph:28 | Support: 47 | Edges: 12 0 | Edge Index: ('11', '9') ('11', '10')
+36 | 210e1f7c382244253608d7c17b795cb6 | Pattern: 7 8 | Node Index: 8 9 | Graph:28 | Support: 49 | Edges: 0 | Edge Index: ('8', '9')
+37 | a6a7b75ea375d744411da0fd19db9850 | Pattern: 7 3 7 | Node Index: 13 15 12 | Graph:13 | Support: 47 | Edges: 12 0 | Edge Index: ('13', '15') ('13', '12')
+38 | 58a71d1a49b23aa1157215e31bd0f429 | Pattern: 7 19 | Node Index: 2 3 | Graph:11 | Support: 49 | Edges: 0 | Edge Index: ('2', '3')
+Function ASGCM took 15.7803 seconds

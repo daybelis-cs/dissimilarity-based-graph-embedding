@@ -1,0 +1,53 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/4/collection_image_100_1_train.lg
+Collection Size: 49
+Frequency threshold:    2%
+Dissimilarity threshold: 2
+Mined Patterns: 339
+Unique Patterns: 44
+|========================================|
+1 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 1 | Graph:0 | Support: 1 | Edges:  | Edge Index: 
+2 | d8820e1665d116439e6aeacf87f9fb62 | Pattern: 2 7 | Node Index: 1 3 | Graph:0 | Support: 1 | Edges: 12 | Edge Index: ('1', '3')
+3 | 11d018ce80011bf17543835831f524ad | Pattern: 7 | Node Index: 3 | Graph:0 | Support: 1 | Edges:  | Edge Index: 
+4 | f48ec56d2f8111bb08d744a5d325d2ed | Pattern: 2 2 | Node Index: 1 0 | Graph:1 | Support: 3 | Edges: 0 | Edge Index: ('1', '0')
+5 | 9446209b9415cbc3b5ac51b04ae89826 | Pattern: 7 7 | Node Index: 3 8 | Graph:1 | Support: 5 | Edges: 15 | Edge Index: ('8', '3')
+6 | 9e9cae535085518dc0d49576db75989f | Pattern: 7 7 | Node Index: 3 2 | Graph:1 | Support: 5 | Edges: 0 | Edge Index: ('3', '2')
+7 | 44cbfe55e27931ba701bb3d59bc34a10 | Pattern: 7 7 | Node Index: 2 8 | Graph:1 | Support: 5 | Edges: 8 | Edge Index: ('8', '2')
+8 | ee891274ca03d33adcf7e6ea38009933 | Pattern: 7 7 | Node Index: 3 6 | Graph:2 | Support: 2 | Edges: 22 | Edge Index: ('3', '6')
+9 | 5b9b8861a5e1c71038c040e3047547bb | Pattern: 0 | Node Index: 5 | Graph:2 | Support: 1 | Edges:  | Edge Index: 
+10 | 5e36d1b222795611e0f475f0a1128948 | Pattern: 0 7 | Node Index: 5 6 | Graph:2 | Support: 1 | Edges: 12 | Edge Index: ('5', '6')
+11 | e89717f8d2890a58550ca9c721b8938a | Pattern: 0 0 | Node Index: 1 0 | Graph:3 | Support: 3 | Edges: 0 | Edge Index: ('1', '0')
+12 | ad7e709ae205d6324614cbd641265bf4 | Pattern: 13 | Node Index: 11 | Graph:4 | Support: 1 | Edges:  | Edge Index: 
+13 | 1e1196bb2e868abfb0783c9ea0a01653 | Pattern: 13 7 | Node Index: 11 9 | Graph:4 | Support: 1 | Edges: 12 | Edge Index: ('11', '9')
+14 | b7a363a43b4d2998936ee616035b42d6 | Pattern: 13 7 | Node Index: 11 10 | Graph:4 | Support: 1 | Edges: 0 | Edge Index: ('11', '10')
+15 | 66097694f494b35b5e626b5a2566c486 | Pattern: 7 7 | Node Index: 10 8 | Graph:4 | Support: 8 | Edges: 12 | Edge Index: ('10', '8')
+16 | d5215102b60e5a2597635bbda4cc512a | Pattern: 7 14 | Node Index: 13 12 | Graph:4 | Support: 8 | Edges: 0 | Edge Index: ('13', '12')
+17 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 11 | Graph:7 | Support: 3 | Edges:  | Edge Index: 
+18 | baf7ca919b76656c2eba3e874ff94a52 | Pattern: 3 7 | Node Index: 11 9 | Graph:7 | Support: 3 | Edges: 12 | Edge Index: ('11', '9')
+19 | de68a9edbde0e29311f18cd849a412c4 | Pattern: 3 3 | Node Index: 11 10 | Graph:7 | Support: 3 | Edges: 0 | Edge Index: ('11', '10')
+20 | 557f7c7c4b29d1e7d20624e2a41d6cb4 | Pattern: 1 | Node Index: 1 | Graph:7 | Support: 3 | Edges:  | Edge Index: 
+21 | 3d2de9fa2247aa25d67848c63be0558f | Pattern: 1 1 | Node Index: 1 0 | Graph:7 | Support: 3 | Edges: 0 | Edge Index: ('1', '0')
+22 | fa216c62cef129603d05aeda62e9e0c1 | Pattern: 1 7 | Node Index: 1 3 | Graph:7 | Support: 3 | Edges: 12 | Edge Index: ('1', '3')
+23 | 845ce4be6cdf36f8f744063687f5fbbe | Pattern: 3 0 | Node Index: 1 8 | Graph:8 | Support: 3 | Edges: 8 | Edge Index: ('1', '8')
+24 | 613b7cbce02a6f9cdf7dcf020a61b5c0 | Pattern: 3 0 | Node Index: 0 8 | Graph:8 | Support: 3 | Edges: 15 | Edge Index: ('0', '8')
+25 | cf4fcbdd60057dec2086f4c9c983069e | Pattern: 7 8 | Node Index: 11 9 | Graph:9 | Support: 7 | Edges: 12 | Edge Index: ('11', '9')
+26 | ae739f645eba572ab8e6822b633b817c | Pattern: 7 8 | Node Index: 12 9 | Graph:9 | Support: 7 | Edges: 1 | Edge Index: ('9', '12')
+27 | 44e93aa14b0bbdcd623deb3570c3d43d | Pattern: 7 0 | Node Index: 0 4 | Graph:11 | Support: 2 | Edges: 15 | Edge Index: ('0', '4')
+28 | 286b872e136b73faccf650f7cf06c699 | Pattern: 7 2 | Node Index: 0 5 | Graph:19 | Support: 3 | Edges: 15 | Edge Index: ('0', '5')
+29 | decf6faa5c51cbcbd6221bf133ef72c9 | Pattern: 7 7 | Node Index: 2 6 | Graph:19 | Support: 3 | Edges: 1 | Edge Index: ('2', '6')
+30 | 700b7616a7fb074d6ee2b6ca9e8d164c | Pattern: 7 14 | Node Index: 12 8 | Graph:20 | Support: 6 | Edges: 22 | Edge Index: ('8', '12')
+31 | 25786ef31487f96a54d578f7aaf76626 | Pattern: 7 14 | Node Index: 6 8 | Graph:20 | Support: 6 | Edges: 12 | Edge Index: ('8', '6')
+32 | 45ec9b6a5ed6b15f1d81f1a20745acb9 | Pattern: 7 2 | Node Index: 1 5 | Graph:25 | Support: 2 | Edges: 8 | Edge Index: ('1', '5')
+33 | 0ed3a244858da988d79007e5476d8c87 | Pattern: 7 13 | Node Index: 12 9 | Graph:29 | Support: 6 | Edges: 1 | Edge Index: ('9', '12')
+34 | 4432978bc2e64abc652b5a3b09c3519e | Pattern: 0 14 | Node Index: 1 3 | Graph:29 | Support: 3 | Edges: 12 | Edge Index: ('1', '3')
+35 | e0bb2cd9575121a436399b24ee5ad117 | Pattern: 13 14 | Node Index: 10 8 | Graph:39 | Support: 1 | Edges: 12 | Edge Index: ('10', '8')
+36 | bf35444c118f2cef538c08e1d8b44965 | Pattern: 7 13 | Node Index: 12 8 | Graph:42 | Support: 5 | Edges: 22 | Edge Index: ('8', '12')
+37 | 22dfc866b0a5087e799a8354438c69c4 | Pattern: 7 1 | Node Index: 3 6 | Graph:42 | Support: 5 | Edges: 0 | Edge Index: ('3', '6')
+38 | 50be93143be21c8e762cbd42087ba72b | Pattern: 1 6 | Node Index: 5 7 | Graph:42 | Support: 4 | Edges: 12 | Edge Index: ('5', '7')
+39 | 1f297bf952486a6656a7710fedb1c8a7 | Pattern: 1 1 | Node Index: 4 6 | Graph:42 | Support: 4 | Edges: 12 | Edge Index: ('4', '6')
+40 | 5ac9647d00da49c2ba20f4257f8c47b6 | Pattern: 1 13 | Node Index: 6 8 | Graph:42 | Support: 4 | Edges: 12 | Edge Index: ('8', '6')
+41 | fc19fb3ee0947ee01fbecf4193b4e91b | Pattern: 7 4 | Node Index: 11 10 | Graph:43 | Support: 7 | Edges: 0 | Edge Index: ('11', '10')
+42 | 89614af7d8882df50088e7bba39996f2 | Pattern: 19 | Node Index: 11 | Graph:48 | Support: 1 | Edges:  | Edge Index: 
+43 | 12ffa4ae9df06c150aa40dc7fd1c51bd | Pattern: 19 7 | Node Index: 11 9 | Graph:48 | Support: 1 | Edges: 12 | Edge Index: ('11', '9')
+44 | c9cff04719ab592cdf385636681a9155 | Pattern: 19 7 | Node Index: 11 12 | Graph:48 | Support: 1 | Edges: 22 | Edge Index: ('11', '12')

@@ -1,0 +1,15 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/3/PTC_FR_class_1_training_80.0%.lg
+Collection Size: 92
+Frequency threshold:    3%
+Dissimilarity threshold: 2
+Mined Patterns: 138
+Unique Patterns: 6
+|========================================|
+1 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 3917 | Graph:0 | Support: 3 | Edges:  | Edge Index: 
+2 | ddc35681dcc3e027d038fa558bbfb53f | Pattern: 5 | Node Index: 3922 | Graph:0 | Support: 14 | Edges:  | Edge Index: 
+3 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 4563 | Graph:2 | Support: 4 | Edges:  | Edge Index: 
+4 | 5011d584ad3bc5d8b2a654e2f44542fc | Pattern: 6 | Node Index: 1667 | Graph:4 | Support: 5 | Edges:  | Edge Index: 
+5 | b8c844e481b79e405d2fd469ff0ea552 | Pattern: 8 | Node Index: 1589 | Graph:6 | Support: 9 | Edges:  | Edge Index: 
+6 | 81aa125cd7d54ce9f3d0632fba53887a | Pattern: 9 | Node Index: 856 | Graph:29 | Support: 3 | Edges:  | Edge Index: 

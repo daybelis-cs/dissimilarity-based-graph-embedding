@@ -1,0 +1,22 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/2/PTC_FM_class_-1
+Collection Size: 164
+Frequency threshold:    90.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | 6824ea6bb374e026e906ee15ed21bd29 | Pattern: 2 | Node Index: 3131 | Graph:0 | Support: 164 | Edges:  | Edge Index: 
+1 | a9cd170b088ba994ac8a112e5f8a5677 | Pattern: 2 2 | Node Index: 631 626 | Graph:163 | Support: 155 | Edges: 3 | Edge Index: ('631', '626')
+2 | 091b570a7dc3c31a89e9e8cf60649e32 | Pattern: 2 2 | Node Index: 624 623 | Graph:163 | Support: 164 | Edges: 1 | Edge Index: ('624', '623')
+3 | cc2b0d64003e02a0a5e69f2490041669 | Pattern: 2 3 | Node Index: 1634 1635 | Graph:162 | Support: 164 | Edges: 1 | Edge Index: ('1634', '1635')
+4 | 4a77e542b1adef7d506f859e4a9b263c | Pattern: 2 4 | Node Index: 1630 1637 | Graph:162 | Support: 164 | Edges: 1 | Edge Index: ('1630', '1637')
+5 | 169dec7127471d27d15bc60aa2cd7a4c | Pattern: 2 5 | Node Index: 2713 2714 | Graph:161 | Support: 164 | Edges: 1 | Edge Index: ('2713', '2714')
+6 | 1dc83aa4c9ceca1e6b9f2dcc8c2a2543 | Pattern: 2 6 | Node Index: 2711 2708 | Graph:161 | Support: 164 | Edges: 1 | Edge Index: ('2711', '2708')
+7 | cc545901c99ce785fcb47a3e8832ea60 | Pattern: 2 2 | Node Index: 2830 2831 | Graph:159 | Support: 157 | Edges: 2 | Edge Index: ('2830', '2831')
+8 | 39b0ce8de1fbeab031883692f75c992a | Pattern: 2 7 | Node Index: 2831 2832 | Graph:159 | Support: 164 | Edges: 1 | Edge Index: ('2831', '2832')
+9 | 66e13d6c67baf4a281204abe7cb11824 | Pattern: 2 9 | Node Index: 3589 3590 | Graph:156 | Support: 164 | Edges: 1 | Edge Index: ('3589', '3590')
+10 | f46392bd5bc59f155728a50730a58e4e | Pattern: 2 15 | Node Index: 3901 3887 | Graph:103 | Support: 164 | Edges: 1 | Edge Index: ('3901', '3887')
+11 | d251109a7c5a3048931c2c5162c00a71 | Pattern: 2 13 | Node Index: 2207 2208 | Graph:87 | Support: 164 | Edges: 1 | Edge Index: ('2207', '2208')
+12 | 85b0fdcf65c67883f00b9e9eaa9d08d1 | Pattern: 2 10 | Node Index: 874 879 | Graph:50 | Support: 164 | Edges: 1 | Edge Index: ('874', '879')
+13 | fcce5c7437751f2787f0a1f78e7cbc80 | Pattern: 2 1 | Node Index: 1303 1302 | Graph:27 | Support: 164 | Edges: 1 | Edge Index: ('1303', '1302')
+Function ASGCM took 643.1331 seconds

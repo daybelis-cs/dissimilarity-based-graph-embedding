@@ -1,0 +1,16 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/2/C_100_1
+Collection Size: 49
+Frequency threshold:    2
+Dissimilarity threshold: 1
+Mined Patterns: 105
+Unique Patterns: 7
+|========================================|
+1 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 1 | Graph:0 | Support: 1 | Edges:  | Edge Index: 
+2 | 11d018ce80011bf17543835831f524ad | Pattern: 7 | Node Index: 3 | Graph:0 | Support: 1 | Edges:  | Edge Index: 
+3 | 5b9b8861a5e1c71038c040e3047547bb | Pattern: 0 | Node Index: 5 | Graph:2 | Support: 1 | Edges:  | Edge Index: 
+4 | ad7e709ae205d6324614cbd641265bf4 | Pattern: 13 | Node Index: 11 | Graph:4 | Support: 1 | Edges:  | Edge Index: 
+5 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 11 | Graph:7 | Support: 3 | Edges:  | Edge Index: 
+6 | 557f7c7c4b29d1e7d20624e2a41d6cb4 | Pattern: 1 | Node Index: 1 | Graph:7 | Support: 3 | Edges:  | Edge Index: 
+7 | 89614af7d8882df50088e7bba39996f2 | Pattern: 19 | Node Index: 11 | Graph:48 | Support: 1 | Edges:  | Edge Index: 

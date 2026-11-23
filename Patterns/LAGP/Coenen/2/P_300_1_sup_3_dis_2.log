@@ -1,0 +1,15 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/2/C_300_1
+Collection Size: 129
+Frequency threshold:    3
+Dissimilarity threshold: 2
+Mined Patterns: 168
+Unique Patterns: 6
+|========================================|
+1 | 11d018ce80011bf17543835831f524ad | Pattern: 7 | Node Index: 0 | Graph:0 | Support: 3 | Edges:  | Edge Index: 
+2 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 1 | Graph:1 | Support: 3 | Edges:  | Edge Index: 
+3 | ad7e709ae205d6324614cbd641265bf4 | Pattern: 13 | Node Index: 1 | Graph:3 | Support: 2 | Edges:  | Edge Index: 
+4 | 557f7c7c4b29d1e7d20624e2a41d6cb4 | Pattern: 1 | Node Index: 1 | Graph:6 | Support: 3 | Edges:  | Edge Index: 
+5 | 5b9b8861a5e1c71038c040e3047547bb | Pattern: 0 | Node Index: 1 | Graph:10 | Support: 3 | Edges:  | Edge Index: 
+6 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 2 | Graph:31 | Support: 2 | Edges:  | Edge Index: 

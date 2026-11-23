@@ -1,0 +1,21 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/4/PTC_FR_class_-1
+Collection Size: 185
+Frequency threshold:    90.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | 553cf8591b10049f45e857b68378f3a2 | Pattern: 5 | Node Index: 1072 | Graph:0 | Support: 184 | Edges:  | Edge Index: 
+1 | 98d36bdb532797b7563efffb8a04c7d3 | Pattern: 5 3 | Node Index: 3574 3568 | Graph:184 | Support: 184 | Edges: 2 | Edge Index: ('3574', '3568')
+2 | 83a1ef675add0860a4974bf1ef07f83d | Pattern: 5 5 | Node Index: 3574 3575 | Graph:184 | Support: 184 | Edges: 2 | Edge Index: ('3574', '3575')
+3 | 366a23cbb07a68b6d326fe4674ef30db | Pattern: 5 2 | Node Index: 3575 3577 | Graph:184 | Support: 184 | Edges: 2 | Edge Index: ('3575', '3577')
+4 | 38dbb50528bcfdae4a16703747574b97 | Pattern: 5 6 | Node Index: 1297 1298 | Graph:181 | Support: 184 | Edges: 2 | Edge Index: ('1297', '1298')
+5 | 9aeb1e4947916cf612ee898087c1f9cb | Pattern: 5 5 | Node Index: 2549 2542 | Graph:180 | Support: 179 | Edges: 3 | Edge Index: ('2549', '2542')
+6 | 36dbfc648de86e78e15ef602b15b229c | Pattern: 5 5 | Node Index: 2538 2537 | Graph:180 | Support: 179 | Edges: 1 | Edge Index: ('2538', '2537')
+7 | 4cda8194bef9732dcc4a67e6d9c3fffc | Pattern: 5 7 | Node Index: 2503 2504 | Graph:177 | Support: 184 | Edges: 2 | Edge Index: ('2503', '2504')
+8 | 501e3a626a867f9bcd3cca6a12f7534e | Pattern: 5 15 | Node Index: 4034 4020 | Graph:173 | Support: 184 | Edges: 2 | Edge Index: ('4034', '4020')
+9 | 5fd4b4d9b87bfecbafc1c106ea437e60 | Pattern: 5 14 | Node Index: 2256 2257 | Graph:129 | Support: 184 | Edges: 2 | Edge Index: ('2256', '2257')
+10 | cba05735352f04e8fe6f77b6ae26d624 | Pattern: 5 10 | Node Index: 918 923 | Graph:125 | Support: 184 | Edges: 2 | Edge Index: ('918', '923')
+11 | ef8b8abe875558226f9a29edfb6394d0 | Pattern: 5 8 | Node Index: 3190 3191 | Graph:103 | Support: 184 | Edges: 2 | Edge Index: ('3190', '3191')
+12 | 94a8d56f4efe0a4db0cf5082fdfe3700 | Pattern: 5 9 | Node Index: 3728 3729 | Graph:18 | Support: 184 | Edges: 2 | Edge Index: ('3728', '3729')
+Function ASGCM took 807.3449 seconds

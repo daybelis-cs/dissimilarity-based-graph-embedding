@@ -1,0 +1,27 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/5/PTC_FM_class_-1
+Collection Size: 158
+Frequency threshold:    80.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | 6824ea6bb374e026e906ee15ed21bd29 | Pattern: 2 | Node Index: 4728 | Graph:0 | Support: 158 | Edges:  | Edge Index: 
+1 | a9cd170b088ba994ac8a112e5f8a5677 | Pattern: 2 2 | Node Index: 630 629 | Graph:157 | Support: 151 | Edges: 3 | Edge Index: ('630', '629')
+2 | 091b570a7dc3c31a89e9e8cf60649e32 | Pattern: 2 2 | Node Index: 624 623 | Graph:157 | Support: 158 | Edges: 1 | Edge Index: ('624', '623')
+3 | cc2b0d64003e02a0a5e69f2490041669 | Pattern: 2 3 | Node Index: 1634 1635 | Graph:156 | Support: 158 | Edges: 1 | Edge Index: ('1634', '1635')
+4 | 881fdc6fbb11686bbb85af62e5157397 | Pattern: 2 3 | Node Index: 1634 1636 | Graph:156 | Support: 131 | Edges: 2 | Edge Index: ('1634', '1636')
+5 | 4291277de3554d9d0d0bea7dd5f69c5f | Pattern: 2 3 2 | Node Index: 1634 1635 1633 | Graph:156 | Support: 132 | Edges: 1 1 | Edge Index: ('1634', '1635') ('1634', '1633')
+6 | 4a77e542b1adef7d506f859e4a9b263c | Pattern: 2 4 | Node Index: 1630 1637 | Graph:156 | Support: 158 | Edges: 1 | Edge Index: ('1630', '1637')
+7 | 4903a9e7ffaee8528a191f58192709a9 | Pattern: 2 2 2 | Node Index: 1633 1628 1634 | Graph:156 | Support: 139 | Edges: 3 1 | Edge Index: ('1633', '1628') ('1633', '1634')
+8 | a77801091f2a6d3137e743dfa3701d28 | Pattern: 2 2 2 | Node Index: 626 623 624 | Graph:157 | Support: 133 | Edges: 1 1 | Edge Index: ('626', '623') ('623', '624')
+9 | 1dc83aa4c9ceca1e6b9f2dcc8c2a2543 | Pattern: 2 6 | Node Index: 2711 2708 | Graph:155 | Support: 158 | Edges: 1 | Edge Index: ('2711', '2708')
+10 | 169dec7127471d27d15bc60aa2cd7a4c | Pattern: 2 5 | Node Index: 2713 2714 | Graph:155 | Support: 158 | Edges: 1 | Edge Index: ('2713', '2714')
+11 | b99322e07615aef38aacd50e6991b4dc | Pattern: 2 4 2 | Node Index: 3595 3593 3581 | Graph:150 | Support: 131 | Edges: 1 1 | Edge Index: ('3595', '3593') ('3593', '3581')
+12 | cc545901c99ce785fcb47a3e8832ea60 | Pattern: 2 2 | Node Index: 2830 2831 | Graph:153 | Support: 152 | Edges: 2 | Edge Index: ('2830', '2831')
+13 | 39b0ce8de1fbeab031883692f75c992a | Pattern: 2 7 | Node Index: 2831 2832 | Graph:153 | Support: 158 | Edges: 1 | Edge Index: ('2831', '2832')
+14 | 2d5a86d75b0d7df0905feb7f33093097 | Pattern: 2 4 2 | Node Index: 3653 3652 3654 | Graph:151 | Support: 141 | Edges: 1 1 | Edge Index: ('3653', '3652') ('3653', '3654')
+15 | 66e13d6c67baf4a281204abe7cb11824 | Pattern: 2 9 | Node Index: 3589 3590 | Graph:150 | Support: 158 | Edges: 1 | Edge Index: ('3589', '3590')
+16 | 850d7d50ff63a91dd9fff49a3c31630a | Pattern: 2 4 | Node Index: 473 474 | Graph:144 | Support: 131 | Edges: 2 | Edge Index: ('473', '474')
+17 | 85b0fdcf65c67883f00b9e9eaa9d08d1 | Pattern: 2 10 | Node Index: 874 879 | Graph:92 | Support: 158 | Edges: 1 | Edge Index: ('874', '879')
+18 | fcce5c7437751f2787f0a1f78e7cbc80 | Pattern: 2 1 | Node Index: 1303 1302 | Graph:69 | Support: 158 | Edges: 1 | Edge Index: ('1303', '1302')
+Function ASGCM took 718.4809 seconds

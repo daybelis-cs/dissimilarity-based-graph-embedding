@@ -1,0 +1,15 @@
+|========================================|
+                 Miner                   
+Input file name: FOLDS/4/collection_image_200_1_train.lg
+Collection Size: 83
+Frequency threshold:    3%
+Dissimilarity threshold: 1
+Mined Patterns: 108
+Unique Patterns: 6
+|========================================|
+1 | 11d018ce80011bf17543835831f524ad | Pattern: 7 | Node Index: 1 | Graph:2 | Support: 2 | Edges:  | Edge Index: 
+2 | 5b9b8861a5e1c71038c040e3047547bb | Pattern: 0 | Node Index: 1 | Graph:3 | Support: 3 | Edges:  | Edge Index: 
+3 | ae71e444fde911a2842d76c64f1f7ef5 | Pattern: 2 | Node Index: 1 | Graph:4 | Support: 3 | Edges:  | Edge Index: 
+4 | 557f7c7c4b29d1e7d20624e2a41d6cb4 | Pattern: 1 | Node Index: 1 | Graph:10 | Support: 3 | Edges:  | Edge Index: 
+5 | ad7e709ae205d6324614cbd641265bf4 | Pattern: 13 | Node Index: 1 | Graph:22 | Support: 2 | Edges:  | Edge Index: 
+6 | 486b3a646d03f50243e594bcc02bdd66 | Pattern: 3 | Node Index: 11 | Graph:40 | Support: 3 | Edges:  | Edge Index: 

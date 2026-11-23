@@ -1,0 +1,22 @@
+╒═══════════════════════════════════════╕
+                 Miner                   
+Input file name: FOLDS/3/PTC_MR_class_1
+Collection Size: 121
+Frequency threshold:    80.0%
+Dissimilarity threshold: 1
+╘═══════════════════════════════════════╛
+0 | 553cf8591b10049f45e857b68378f3a2 | Pattern: 5 | Node Index: 1464 | Graph:0 | Support: 121 | Edges:  | Edge Index: 
+1 | 98d36bdb532797b7563efffb8a04c7d3 | Pattern: 5 3 | Node Index: 4795 4793 | Graph:120 | Support: 120 | Edges: 2 | Edge Index: ('4795', '4793')
+2 | 9aeb1e4947916cf612ee898087c1f9cb | Pattern: 5 5 | Node Index: 4802 4796 | Graph:120 | Support: 113 | Edges: 3 | Edge Index: ('4802', '4796')
+3 | 38dbb50528bcfdae4a16703747574b97 | Pattern: 5 6 | Node Index: 4799 4800 | Graph:120 | Support: 119 | Edges: 2 | Edge Index: ('4799', '4800')
+4 | 83a1ef675add0860a4974bf1ef07f83d | Pattern: 5 5 | Node Index: 462 460 | Graph:119 | Support: 121 | Edges: 2 | Edge Index: ('462', '460')
+5 | 02f61d2570d7e8198df7748b3394e78f | Pattern: 5 2 | Node Index: 457 461 | Graph:119 | Support: 99 | Edges: 3 | Edge Index: ('457', '461')
+6 | 4cda8194bef9732dcc4a67e6d9c3fffc | Pattern: 5 7 | Node Index: 2525 2534 | Graph:118 | Support: 119 | Edges: 2 | Edge Index: ('2525', '2534')
+7 | 56b838ce2c3a7314c3dc2329e43aae59 | Pattern: 5 5 5 | Node Index: 462 460 459 | Graph:119 | Support: 100 | Edges: 2 3 | Edge Index: ('462', '460') ('460', '459')
+8 | 366a23cbb07a68b6d326fe4674ef30db | Pattern: 5 2 | Node Index: 2519 2520 | Graph:118 | Support: 119 | Edges: 2 | Edge Index: ('2519', '2520')
+9 | 36dbfc648de86e78e15ef602b15b229c | Pattern: 5 5 | Node Index: 4536 4535 | Graph:117 | Support: 116 | Edges: 1 | Edge Index: ('4536', '4535')
+10 | 372d2c7a96ca88a66957ec8de0accacc | Pattern: 5 5 5 | Node Index: 4529 4528 4527 | Graph:117 | Support: 97 | Edges: 2 2 | Edge Index: ('4529', '4528') ('4528', '4527')
+11 | ef8b8abe875558226f9a29edfb6394d0 | Pattern: 5 8 | Node Index: 2600 2601 | Graph:116 | Support: 119 | Edges: 2 | Edge Index: ('2600', '2601')
+12 | 8a6cf46f034c89bddbb7eaa07d00f8f1 | Pattern: 5 5 3 | Node Index: 2624 2623 2622 | Graph:113 | Support: 97 | Edges: 2 2 | Edge Index: ('2624', '2623') ('2623', '2622')
+13 | 94a8d56f4efe0a4db0cf5082fdfe3700 | Pattern: 5 9 | Node Index: 901 902 | Graph:12 | Support: 119 | Edges: 2 | Edge Index: ('901', '902')
+Function ASGCM took 420.4223 seconds
